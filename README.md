@@ -61,7 +61,7 @@ Final-year AI student and Linux enthusiast passionate about crafting intelligent
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,rust,clojure,mysql,bash" />                                                                                                   |
 | **Data Science** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/os14you/os14you/main/assets/Pandas.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/os14you/os14you/main/assets/NumPy.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/os14you/os14you/main/assets/Matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a> |
-| **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,redis,docker,kubernetes" />                                                                                                      |
+| **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,redis,docker,kubernetes,fastapi" />                                                                                                      |
 | **CS Fundamentals** | `Algorithms`, `Data Structures`, `OOP`, `Problem Solving`, `Networking`, `Event Loop`                                                                              |
 
 
